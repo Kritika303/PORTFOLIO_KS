@@ -1,1 +1,1 @@
-# PORTFOLIO_KS
+Creating a portfolio using HTML and CSS allows for a clean and customizable presentation of your work.By combining HTML for structure, CSS for styling, and JavaScript for interactivity, you can create a dynamic portfolio that effectively showcases your skills and projects while providing an engaging user experience.
